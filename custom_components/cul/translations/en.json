@@ -1,0 +1,214 @@
+{
+  "config": {
+    "flow_title": "{name}",
+    "step": {
+      "user": {
+        "title": "CUL (culfw)",
+        "description": "How is the CUL connected?",
+        "menu_options": {
+          "serial": "USB / serial (on this Home Assistant)",
+          "network": "Network (ser2net)"
+        }
+      },
+      "network": {
+        "title": "CUL via ser2net",
+        "data": {
+          "host": "Host",
+          "port": "Port",
+          "migrate": "Take over fht_heating entities"
+        },
+        "data_description": {
+          "host": "Machine running ser2net in raw mode with the CUL.",
+          "migrate": "Only for a switch from FHEM with the fht_heating integration."
+        }
+      },
+      "serial": {
+        "title": "CUL on USB / serial",
+        "data": {
+          "device": "Device",
+          "baudrate": "Baud rate",
+          "migrate": "Take over fht_heating entities"
+        },
+        "data_description": {
+          "device": "Prefer /dev/serial/by-id/…: it stays the same after a reboot.",
+          "baudrate": "9600 for a USB CUL; a CUL on a UART (COC) usually uses 38400.",
+          "migrate": "Only for a switch from FHEM with the fht_heating integration."
+        }
+      },
+      "usb_confirm": {
+        "title": "CUL found",
+        "description": "Set up {name} on {device}?",
+        "data": {
+          "migrate": "Take over fht_heating entities"
+        }
+      },
+      "fhtid": {
+        "title": "FHT ID of the CUL",
+        "description": "The CUL has no FHT ID yet. FHT80b thermostats are paired to this ID. A random one is proposed. It must differ from any other FHT central (another CUL, FHEM) within radio range. If your FHT80b were paired to an old CUL, enter its ID (FHEM: attribute fhtid).",
+        "data": {
+          "fhtid": "FHT ID (4 hex digits)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Cannot reach the CUL.",
+      "invalid_fhtid": "Use 4 hex digits other than 0000, e.g. 1034."
+    },
+    "abort": {
+      "already_configured": "This CUL is already configured.",
+      "already_in_progress": "Setup of this CUL is already in progress."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "CUL",
+        "menu_options": {
+          "pair": "Pair FHT80b",
+          "settings": "Settings"
+        }
+      },
+      "settings": {
+        "data": {
+          "timeout": "Unavailable after (seconds without telegram)",
+          "time_sync": "Set FHT clock daily at 04:00"
+        }
+      },
+      "pair": {
+        "title": "Pair FHT80b",
+        "description": "1. On the FHT80b: hold PROG until \"Sond\", turn to \"CEnt\", set it to nA, confirm with PROG.\n2. Read code 1 and code 2 on the FHT80b under \"CodE\" (e.g. 028 and 080) and enter them here.\n\nThe CUL sends a request once. The FHT80b picks it up within about 2 min, then CEnt shows On.",
+        "data": {
+          "code1": "Code 1",
+          "code2": "Code 2"
+        }
+      }
+    },
+    "progress": {
+      "pairing": "Waiting for FHT80b {code} (up to 15 min). CEnt on the FHT80b must show nA. You can close this dialog: a notification shows the result."
+    },
+    "abort": {
+      "not_loaded": "The CUL is not connected.",
+      "paired": "FHT80b {code} is paired. CEnt shows On, values arrive within the next minutes.",
+      "pair_failed": "FHT80b {code} did not answer. Check the code and CEnt nA. If old commands are stuck in the CUL, press \"Restart\" on the CUL device and try again."
+    }
+  },
+  "services": {
+    "fht_set_holiday": {
+      "name": "Set holiday",
+      "description": "Sets holiday mode with end time and temperature on an FHT80b.",
+      "fields": {
+        "mode": {
+          "name": "Mode",
+          "description": "holiday (end date) or holiday_short (end time on a day)."
+        },
+        "end": {
+          "name": "End",
+          "description": "When holiday mode ends."
+        },
+        "temperature": {
+          "name": "Temperature",
+          "description": "Target temperature during holiday."
+        }
+      }
+    },
+    "fht_set_schedule": {
+      "name": "Set schedule",
+      "description": "Sets the weekly program of one day. Omitted fields keep their value, empty fields are unused.",
+      "fields": {
+        "day": {
+          "name": "Day",
+          "description": "Weekday."
+        },
+        "from1": {
+          "name": "From 1",
+          "description": "Start of first heating period."
+        },
+        "to1": {
+          "name": "To 1",
+          "description": "End of first heating period."
+        },
+        "from2": {
+          "name": "From 2",
+          "description": "Start of second heating period."
+        },
+        "to2": {
+          "name": "To 2",
+          "description": "End of second heating period."
+        }
+      }
+    },
+    "fht_refresh": {
+      "name": "Refresh values",
+      "description": "Asks the FHT80b to report its values again."
+    },
+    "fht_sync_time": {
+      "name": "Sync clock",
+      "description": "Sets the FHT80b clock to the current time."
+    },
+    "fht_report": {
+      "name": "Request report",
+      "description": "Sends report requests to the FHT80b.",
+      "fields": {
+        "report1": {
+          "name": "Report 1",
+          "description": "Report mask 1 (0-255)."
+        },
+        "report2": {
+          "name": "Report 2",
+          "description": "Report mask 2 (0-255)."
+        }
+      }
+    },
+    "send_raw": {
+      "name": "Send raw command",
+      "description": "Sends a raw culfw command line to the CUL. Admins only.",
+      "fields": {
+        "line": {
+          "name": "Line",
+          "description": "Command line, e.g. V."
+        },
+        "config_entry_id": {
+          "name": "CUL",
+          "description": "Which CUL to use. Empty means all."
+        },
+        "confirm": {
+          "name": "Confirm",
+          "description": "Required to send T01… (changes the FHT ID, all FHT80b must be paired again)."
+        }
+      }
+    },
+    "fht_pair": {
+      "name": "Pair FHT80b",
+      "description": "Pairs an FHT80b with the CUL. First set CEnt on the FHT80b to nA. The CUL sends one request; the FHT80b picks it up within about 2 min and CEnt shows On. A notification shows the result (timeout 15 min). Also available under the CUL's Configure.",
+      "fields": {
+        "code": {
+          "name": "Code",
+          "description": "Code 1 and code 2 of the FHT80b as shown under \"CodE\", e.g. 028 080. 4 hex digits (1c50) work too."
+        },
+        "config_entry_id": {
+          "name": "CUL",
+          "description": "Which CUL to use. Needed only with several CULs."
+        }
+      }
+    }
+  },
+  "selector": {
+    "holiday_mode": {
+      "options": {
+        "holiday": "Holiday (end date)",
+        "holiday_short": "Short holiday (end time)"
+      }
+    },
+    "weekday": {
+      "options": {
+        "mon": "Monday",
+        "tue": "Tuesday",
+        "wed": "Wednesday",
+        "thu": "Thursday",
+        "fri": "Friday",
+        "sat": "Saturday",
+        "sun": "Sunday"
+      }
+    }
+  }
+}

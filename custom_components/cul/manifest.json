@@ -1,0 +1,26 @@
+{
+  "domain": "cul",
+  "name": "CUL (culfw)",
+  "after_dependencies": [
+    "usb"
+  ],
+  "codeowners": [
+    "@Rsclub22"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/Rsclub22/home-assistant-cul",
+  "integration_type": "hub",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/Rsclub22/home-assistant-cul/issues",
+  "requirements": [
+    "serialx>=1.11.0"
+  ],
+  "usb": [
+    {
+      "vid": "03EB",
+      "pid": "204B",
+      "description": "*cul*"
+    }
+  ],
+  "version": "0.1.0b3"
+}

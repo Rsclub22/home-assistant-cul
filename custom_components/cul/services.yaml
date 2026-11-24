@@ -1,0 +1,79 @@
+fht_set_holiday:
+  target:
+    entity:
+      integration: cul
+      domain: climate
+  fields:
+    mode:
+      required: true
+      selector:
+        select:
+          options: ["holiday", "holiday_short"]
+          translation_key: holiday_mode
+    end:
+      required: true
+      selector:
+        datetime:
+    temperature:
+      required: true
+      selector:
+        number: {min: 5.5, max: 30.5, step: 0.5, unit_of_measurement: "°C"}
+fht_set_schedule:
+  target:
+    entity:
+      integration: cul
+      domain: climate
+  fields:
+    day:
+      required: true
+      selector:
+        select:
+          options: ["mon", "tue", "wed", "thu", "fri", "sat", "sun"]
+          translation_key: weekday
+    from1: {selector: {time: {}}}
+    to1: {selector: {time: {}}}
+    from2: {selector: {time: {}}}
+    to2: {selector: {time: {}}}
+fht_refresh:
+  target:
+    entity:
+      integration: cul
+      domain: climate
+fht_sync_time:
+  target:
+    entity:
+      integration: cul
+      domain: climate
+fht_report:
+  target:
+    entity:
+      integration: cul
+      domain: climate
+  fields:
+    report1: {default: 255, selector: {number: {min: 0, max: 255}}}
+    report2: {default: 255, selector: {number: {min: 0, max: 255}}}
+send_raw:
+  fields:
+    line:
+      required: true
+      selector:
+        text:
+    config_entry_id:
+      selector:
+        config_entry:
+          integration: cul
+    confirm:
+      default: false
+      selector:
+        boolean:
+fht_pair:
+  fields:
+    code:
+      required: true
+      example: "028 080"
+      selector:
+        text:
+    config_entry_id:
+      selector:
+        config_entry:
+          integration: cul

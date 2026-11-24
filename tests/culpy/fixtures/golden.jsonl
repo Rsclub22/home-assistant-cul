@@ -1,0 +1,1534 @@
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T2E65D102FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T51054269D20B", "device": "FHT_5105", "readings": {}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "21.0", "temperature": "21.0"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%", "measured-temp": "21.1", "temperature": "21.1"}}
+{"raw": "T1C504269D3FF", "device": "FHT_1c50", "readings": {"actuator": "20%", "measured-temp": "21.1", "temperature": "21.1"}}
+{"raw": "T1C50436900FF", "device": "FHT_1c50", "readings": {"actuator": "20%", "measured-temp": "21.1", "temperature": "21.1"}}
+{"raw": "T1C5044690000", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T2E65D102FA", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269DA0F", "device": "FHT_2025", "readings": {"measured-temp": "21.8", "temperature": "21.8"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "21.8", "temperature": "21.8"}}
+{"raw": "T202544690010", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60A0A", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A633FF", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T51054269D20C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "21.0", "temperature": "21.0", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"measured-temp": "21.0", "temperature": "21.0", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T2E65D102FA", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C504269D3FF", "device": "FHT_1c50", "readings": {}}
+{"raw": "T1C50436900FE", "device": "FHT_1c50", "readings": {"measured-temp": "21.1", "temperature": "21.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5044690000", "device": "FHT_1c50", "readings": {"measured-temp": "21.1", "temperature": "21.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T2E65D102FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T20254269DA0F", "device": "FHT_2025", "readings": {"measured-temp": "21.8", "temperature": "21.8"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "21.8", "temperature": "21.8"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T2E65D102FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A63300", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60A0A", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T51054269D20B", "device": "FHT_5105", "readings": {"measured-temp": "21.0", "temperature": "21.0"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "21.0", "temperature": "21.0"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000263400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T2E65D102FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T1C504269D3FF", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T1C50436900FF", "device": "FHT_1c50", "readings": {"measured-temp": "21.1", "temperature": "21.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5044690000", "device": "FHT_1c50", "readings": {"measured-temp": "21.1", "temperature": "21.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T20254269DA0F", "device": "FHT_2025", "readings": {}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269DA0F", "device": "FHT_2025", "readings": {"measured-temp": "21.8", "temperature": "21.8"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "21.8", "temperature": "21.8"}}
+{"raw": "T510500A60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000A634FE", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T51054269D20C", "device": "FHT_5105", "readings": {"measured-temp": "21.0", "temperature": "21.0"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "21.0", "temperature": "21.0"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T1C504269D3FE", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T1C50436900FF", "device": "FHT_1c50", "readings": {"measured-temp": "21.1", "temperature": "21.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5044690000", "device": "FHT_1c50", "readings": {"measured-temp": "21.1", "temperature": "21.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T2E65D102FA", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500B60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FA", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000B634FF", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500B60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500B60A0E", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T2E65D102FA", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500B60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500B60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T51054269D20C", "device": "FHT_5105", "readings": {"measured-temp": "21.0", "temperature": "21.0"}}
+{"raw": "T51054369000B", "device": "FHT_5105", "readings": {"measured-temp": "21.0", "temperature": "21.0"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000B634FE", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500B60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500B60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "TB1987B0202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000B634FF", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T1C504269D3FE", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T1C50436900FE", "device": "FHT_1c50", "readings": {"measured-temp": "21.1", "temperature": "21.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50446900FF", "device": "FHT_1c50", "readings": {"measured-temp": "21.1", "temperature": "21.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500B60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500B60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500B60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500B60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500B60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T2E65D102FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500B60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500B60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T51054269D20C", "device": "FHT_5105", "readings": {"measured-temp": "21.0", "temperature": "21.0"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "21.0", "temperature": "21.0"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500B60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T2E65D102FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FA", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500B60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500B60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B634FF", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500B60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500B60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T1C504269D3FE", "device": "FHT_1c50", "readings": {"measured-temp": "21.1", "temperature": "21.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50436900FE", "device": "FHT_1c50", "readings": {"measured-temp": "21.1", "temperature": "21.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50446900FF", "device": "FHT_1c50", "readings": {"measured-temp": "21.1", "temperature": "21.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T2E65D102FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500B60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B634FE", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500B60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B634FE", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T2E65D102FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500B60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "TB1987B0202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000B634FF", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500B60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500B60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B634FF", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T20254269DA0F", "device": "FHT_2025", "readings": {"measured-temp": "21.8", "temperature": "21.8"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "21.8", "temperature": "21.8"}}
+{"raw": "T202544690010", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500B60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T51054269D20B", "device": "FHT_5105", "readings": {}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "21.0", "temperature": "21.0"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FA", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500B60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500B60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B634FF", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T1C504269D3FE", "device": "FHT_1c50", "readings": {"measured-temp": "21.1", "temperature": "21.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50436900FD", "device": "FHT_1c50", "readings": {"measured-temp": "21.1", "temperature": "21.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50446900FF", "device": "FHT_1c50", "readings": {"measured-temp": "21.1", "temperature": "21.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500B60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T2E65D102FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269DA0F", "device": "FHT_2025", "readings": {"measured-temp": "21.8", "temperature": "21.8"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "21.8", "temperature": "21.8"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500B60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T202500B60010", "device": "FHT_2025", "readings": {"actuator": "0%", "measured-temp": "21.7", "temperature": "21.7"}}
+{"raw": "T20254269D90F", "device": "FHT_2025", "readings": {"actuator": "0%", "measured-temp": "21.7", "temperature": "21.7"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"actuator": "0%", "measured-temp": "21.7", "temperature": "21.7"}}
+{"raw": "T202544690010", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000B634FE", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500B60A0C", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T2E65D102FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500B6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500B60A0A", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T202500B60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500B60A0B", "device": "FHT_5105", "readings": {"actuator": "4%"}}
+{"raw": "T2E65D102FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000B63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500360E0B", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T51054269D10C", "device": "FHT_5105", "readings": {"measured-temp": "20.9", "temperature": "20.9"}}
+{"raw": "T51054369000B", "device": "FHT_5105", "readings": {"measured-temp": "20.9", "temperature": "20.9"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C504269D200", "device": "FHT_1c50", "readings": {"measured-temp": "21.0", "temperature": "21.0"}}
+{"raw": "T1C50436900FF", "device": "FHT_1c50", "readings": {"measured-temp": "21.0", "temperature": "21.0"}}
+{"raw": "T1C5044690000", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500B60E0B", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T2E65D102FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A63401", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500B60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269D80F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T202543690010", "device": "FHT_2025", "readings": {"measured-temp": "21.6", "temperature": "21.6", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202544690010", "device": "FHT_2025", "readings": {"measured-temp": "21.6", "temperature": "21.6", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500B60E0D", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A60E0B", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A634FF", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T2E65D102FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "TB1987B0202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T51054269D10B", "device": "FHT_5105", "readings": {"measured-temp": "20.9", "temperature": "20.9", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "20.9", "temperature": "20.9", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"measured-temp": "20.9", "temperature": "20.9", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A634FE", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T2E65D102FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T1C504269D100", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T1C50436900FF", "device": "FHT_1c50", "readings": {"measured-temp": "20.9", "temperature": "20.9", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5044690000", "device": "FHT_1c50", "readings": {"measured-temp": "20.9", "temperature": "20.9", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A60E0B", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T20254269D60F", "device": "FHT_2025", "readings": {"measured-temp": "21.4", "temperature": "21.4"}}
+{"raw": "T202543690010", "device": "FHT_2025", "readings": {"measured-temp": "21.4", "temperature": "21.4"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%", "measured-temp": "21.4", "temperature": "21.4"}}
+{"raw": "T20254269D60F", "device": "FHT_2025", "readings": {"actuator": "0%", "measured-temp": "21.4", "temperature": "21.4"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"actuator": "0%", "measured-temp": "21.4", "temperature": "21.4"}}
+{"raw": "T202544690010", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T2E65D102FB", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A634FF", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A60E0B", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T51054269D00C", "device": "FHT_5105", "readings": {}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "20.8", "temperature": "20.8"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D102FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A634FE", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A63400", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T1C5000A634FE", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T1C504269D1FE", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T1C50436900FE", "device": "FHT_1c50", "readings": {"measured-temp": "20.9", "temperature": "20.9", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"measured-temp": "20.9", "temperature": "20.9", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T1C5000A634FF", "device": "FHT_1c50", "readings": {"actuator": "20%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T1C50002639FE", "device": "FHT_1c50", "readings": {"actuator": "22%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%", "measured-temp": "21.3", "temperature": "21.3"}}
+{"raw": "T20254269D50F", "device": "FHT_2025", "readings": {"actuator": "0%", "measured-temp": "21.3", "temperature": "21.3"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"actuator": "0%", "measured-temp": "21.3", "temperature": "21.3"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D102FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FE", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T1C5000A63900", "device": "FHT_1c50", "readings": {"actuator": "22%"}}
+{"raw": "T20250026070F", "device": "FHT_2025", "readings": {"actuator": "3%"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T1C5000A63900", "device": "FHT_1c50", "readings": {"actuator": "22%"}}
+{"raw": "T202500A60710", "device": "FHT_2025", "readings": {"actuator": "3%"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T2E65D102FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A63900", "device": "FHT_1c50", "readings": {"actuator": "22%"}}
+{"raw": "T202500A60710", "device": "FHT_2025", "readings": {"actuator": "3%"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T51054269D00B", "device": "FHT_5105", "readings": {}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "20.8", "temperature": "20.8"}}
+{"raw": "T1C5000A63900", "device": "FHT_1c50", "readings": {"actuator": "22%"}}
+{"raw": "T202500A60710", "device": "FHT_2025", "readings": {"actuator": "3%"}}
+{"raw": "T510500A60E0B", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D102FE", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A63900", "device": "FHT_1c50", "readings": {"actuator": "22%"}}
+{"raw": "T202500A60710", "device": "FHT_2025", "readings": {"actuator": "3%"}}
+{"raw": "T510500A60E0B", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T1C5000A63900", "device": "FHT_1c50", "readings": {"actuator": "22%"}}
+{"raw": "T1C504269D000", "device": "FHT_1c50", "readings": {"measured-temp": "20.8", "temperature": "20.8"}}
+{"raw": "T1C50436900FF", "device": "FHT_1c50", "readings": {"measured-temp": "20.8", "temperature": "20.8"}}
+{"raw": "T1C5044690000", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A60710", "device": "FHT_2025", "readings": {"actuator": "3%"}}
+{"raw": "T510500A60E0B", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D102FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A63900", "device": "FHT_1c50", "readings": {"actuator": "22%"}}
+{"raw": "T2E65D182FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60710", "device": "FHT_2025", "readings": {"actuator": "3%"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T1C5000A63900", "device": "FHT_1c50", "readings": {"actuator": "22%"}}
+{"raw": "T20250026080F", "device": "FHT_2025", "readings": {"actuator": "3%", "measured-temp": "21.1", "temperature": "21.1"}}
+{"raw": "T20254269D30F", "device": "FHT_2025", "readings": {"actuator": "3%", "measured-temp": "21.1", "temperature": "21.1"}}
+{"raw": "T202543690010", "device": "FHT_2025", "readings": {"actuator": "3%", "measured-temp": "21.1", "temperature": "21.1"}}
+{"raw": "T202544690010", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A639FF", "device": "FHT_1c50", "readings": {"actuator": "22%"}}
+{"raw": "T2E65D102FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6080F", "device": "FHT_2025", "readings": {"actuator": "3%"}}
+{"raw": "T510500A60E0B", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T1C5000A63900", "device": "FHT_1c50", "readings": {"actuator": "22%"}}
+{"raw": "T202500A6080F", "device": "FHT_2025", "readings": {"actuator": "3%"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T1C5000A63900", "device": "FHT_1c50", "readings": {"actuator": "22%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D102FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6080F", "device": "FHT_2025", "readings": {"actuator": "3%"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A60E0C", "device": "FHT_5105", "readings": {}}
+{"raw": "T1C5000A63900", "device": "FHT_1c50", "readings": {"actuator": "22%"}}
+{"raw": "T51054269CF0B", "device": "FHT_5105", "readings": {}}
+{"raw": "T51054369000B", "device": "FHT_5105", "readings": {"measured-temp": "20.7", "temperature": "20.7", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"measured-temp": "20.7", "temperature": "20.7", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T20250026000F", "device": "FHT_2025", "readings": {"actuator": "0%", "desired-temp": "17.0"}}
+{"raw": "T20254169220F", "device": "FHT_2025", "readings": {"actuator": "0%", "desired-temp": "17.0"}}
+{"raw": "T510500A60E0B", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T1C5000260000", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C50416922FF", "device": "FHT_1c50", "readings": {"desired-temp": "17.0", "measured-temp": "20.7", "temperature": "20.7"}}
+{"raw": "T1C504269CF00", "device": "FHT_1c50", "readings": {"desired-temp": "17.0", "measured-temp": "20.7", "temperature": "20.7"}}
+{"raw": "T1C50436900FE", "device": "FHT_1c50", "readings": {"desired-temp": "17.0", "measured-temp": "20.7", "temperature": "20.7"}}
+{"raw": "T1C5044690000", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A60E0B", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A60E0B", "device": "FHT_5105", "readings": {"actuator": "5%"}}
+{"raw": "T1C5000A60000", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269D30F", "device": "FHT_2025", "readings": {"measured-temp": "21.1", "temperature": "21.1"}}
+{"raw": "T202543690010", "device": "FHT_2025", "readings": {"measured-temp": "21.1", "temperature": "21.1"}}
+{"raw": "T202544690010", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51050026000B", "device": "FHT_5105", "readings": {"actuator": "0%", "desired-temp": "17.0"}}
+{"raw": "T51054169220B", "device": "FHT_5105", "readings": {"actuator": "0%", "desired-temp": "17.0"}}
+{"raw": "T1C5000A60000", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054169220B", "device": "FHT_5105", "readings": {"desired-temp": "17.0"}}
+{"raw": "T1C5000A60000", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FD", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269CE0B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FC", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FE", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269CE0C", "device": "FHT_5105", "readings": {"measured-temp": "20.6", "temperature": "20.6"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "20.6", "temperature": "20.6"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269CFFE", "device": "FHT_1c50", "readings": {"measured-temp": "20.7", "temperature": "20.7", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50436900FF", "device": "FHT_1c50", "readings": {"measured-temp": "20.7", "temperature": "20.7", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50446900FF", "device": "FHT_1c50", "readings": {"measured-temp": "20.7", "temperature": "20.7", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A60000", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FE", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269D210", "device": "FHT_2025", "readings": {"measured-temp": "21.0", "temperature": "21.0"}}
+{"raw": "T202543690010", "device": "FHT_2025", "readings": {"measured-temp": "21.0", "temperature": "21.0"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A60000", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D102FE", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D18200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FE", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D18200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269CE0C", "device": "FHT_5105", "readings": {"measured-temp": "20.6", "temperature": "20.6", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054369000B", "device": "FHT_5105", "readings": {"measured-temp": "20.6", "temperature": "20.6", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"measured-temp": "20.6", "temperature": "20.6", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A60000", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269CE00", "device": "FHT_1c50", "readings": {"measured-temp": "20.6", "temperature": "20.6"}}
+{"raw": "T1C50436900FF", "device": "FHT_1c50", "readings": {"measured-temp": "20.6", "temperature": "20.6"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C5044690000", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T20254269D110", "device": "FHT_2025", "readings": {"measured-temp": "20.9", "temperature": "20.9"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "20.9", "temperature": "20.9"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D18200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D18200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A60000", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269CD0C", "device": "FHT_5105", "readings": {"measured-temp": "20.5", "temperature": "20.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "20.5", "temperature": "20.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"measured-temp": "20.5", "temperature": "20.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T2E65D18200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A60000", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D18200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269CDFF", "device": "FHT_1c50", "readings": {"measured-temp": "20.5", "temperature": "20.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50436900FE", "device": "FHT_1c50", "readings": {"measured-temp": "20.5", "temperature": "20.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"measured-temp": "20.5", "temperature": "20.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T20254269D00E", "device": "FHT_2025", "readings": {"measured-temp": "20.8", "temperature": "20.8"}}
+{"raw": "T202543690010", "device": "FHT_2025", "readings": {"measured-temp": "20.8", "temperature": "20.8"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10202", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D182FE", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D18200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269CC0B", "device": "FHT_5105", "readings": {}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "20.4", "temperature": "20.4", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"measured-temp": "20.4", "temperature": "20.4", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269CD01", "device": "FHT_1c50", "readings": {"measured-temp": "20.5", "temperature": "20.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50436900FD", "device": "FHT_1c50", "readings": {"measured-temp": "20.5", "temperature": "20.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5044690000", "device": "FHT_1c50", "readings": {"measured-temp": "20.5", "temperature": "20.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"actuator": "0%", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D18200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D18202", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%", "measured-temp": "20.7", "temperature": "20.7"}}
+{"raw": "T20254269CF0F", "device": "FHT_2025", "readings": {"actuator": "0%", "measured-temp": "20.7", "temperature": "20.7"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"actuator": "0%", "measured-temp": "20.7", "temperature": "20.7"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FE", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000A", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269CC0C", "device": "FHT_5105", "readings": {"measured-temp": "20.4", "temperature": "20.4", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054369000B", "device": "FHT_5105", "readings": {"measured-temp": "20.4", "temperature": "20.4", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"measured-temp": "20.4", "temperature": "20.4", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269CCFF", "device": "FHT_1c50", "readings": {}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269CCFE", "device": "FHT_1c50", "readings": {"measured-temp": "20.4", "temperature": "20.4", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50436900FD", "device": "FHT_1c50", "readings": {"measured-temp": "20.4", "temperature": "20.4", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"measured-temp": "20.4", "temperature": "20.4", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269CF0F", "device": "FHT_2025", "readings": {"measured-temp": "20.7", "temperature": "20.7"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "20.7", "temperature": "20.7"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B02FF", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T51054269CB0C", "device": "FHT_5105", "readings": {}}
+{"raw": "T51054369000B", "device": "FHT_5105", "readings": {"measured-temp": "20.3", "temperature": "20.3", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"measured-temp": "20.3", "temperature": "20.3", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0204", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269CBFF", "device": "FHT_1c50", "readings": {"measured-temp": "20.3", "temperature": "20.3"}}
+{"raw": "T1C5043690000", "device": "FHT_1c50", "readings": {"measured-temp": "20.3", "temperature": "20.3"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B82FE", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269CE0F", "device": "FHT_2025", "readings": {"measured-temp": "20.6", "temperature": "20.6"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "20.6", "temperature": "20.6"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10204", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%", "measured-temp": "20.3", "temperature": "20.3"}}
+{"raw": "T51054269CB0B", "device": "FHT_5105", "readings": {"actuator": "0%", "measured-temp": "20.3", "temperature": "20.3"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"actuator": "0%", "measured-temp": "20.3", "temperature": "20.3"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B02FF", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269CBFD", "device": "FHT_1c50", "readings": {"measured-temp": "20.3", "temperature": "20.3"}}
+{"raw": "T1C50436900FE", "device": "FHT_1c50", "readings": {"measured-temp": "20.3", "temperature": "20.3"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C50446900FF", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269CD0F", "device": "FHT_2025", "readings": {}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "20.5", "temperature": "20.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202544690010", "device": "FHT_2025", "readings": {"measured-temp": "20.5", "temperature": "20.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269CA0C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "20.2", "temperature": "20.2", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"measured-temp": "20.2", "temperature": "20.2", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C504269CAFE", "device": "FHT_1c50", "readings": {"measured-temp": "20.2", "temperature": "20.2"}}
+{"raw": "T1C50436900FD", "device": "FHT_1c50", "readings": {"measured-temp": "20.2", "temperature": "20.2"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%", "measured-temp": "20.5", "temperature": "20.5"}}
+{"raw": "T20254269CD0F", "device": "FHT_2025", "readings": {"actuator": "0%", "measured-temp": "20.5", "temperature": "20.5"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"actuator": "0%", "measured-temp": "20.5", "temperature": "20.5"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269CD0F", "device": "FHT_2025", "readings": {"measured-temp": "20.5", "temperature": "20.5"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "20.5", "temperature": "20.5"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C90C", "device": "FHT_5105", "readings": {"measured-temp": "20.1", "temperature": "20.1"}}
+{"raw": "T51054369000B", "device": "FHT_5105", "readings": {"measured-temp": "20.1", "temperature": "20.1"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269C9FE", "device": "FHT_1c50", "readings": {"measured-temp": "20.1", "temperature": "20.1"}}
+{"raw": "T1C50436900FE", "device": "FHT_1c50", "readings": {"measured-temp": "20.1", "temperature": "20.1"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T20254269CC0F", "device": "FHT_2025", "readings": {}}
+{"raw": "T202543690010", "device": "FHT_2025", "readings": {"measured-temp": "20.4", "temperature": "20.4"}}
+{"raw": "T202544690010", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FC", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10202", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10202", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%", "measured-temp": "20.1", "temperature": "20.1"}}
+{"raw": "T51054269C90B", "device": "FHT_5105", "readings": {"actuator": "0%", "measured-temp": "20.1", "temperature": "20.1"}}
+{"raw": "T51054369000D", "device": "FHT_5105", "readings": {"actuator": "0%", "measured-temp": "20.1", "temperature": "20.1"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269C9FF", "device": "FHT_1c50", "readings": {"measured-temp": "20.1", "temperature": "20.1"}}
+{"raw": "T1C50436900FD", "device": "FHT_1c50", "readings": {"measured-temp": "20.1", "temperature": "20.1"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269CB0F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "20.3", "temperature": "20.3", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202544690010", "device": "FHT_2025", "readings": {"measured-temp": "20.3", "temperature": "20.3", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C80C", "device": "FHT_5105", "readings": {}}
+{"raw": "T51054369000B", "device": "FHT_5105", "readings": {"measured-temp": "20.0", "temperature": "20.0"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269C8FE", "device": "FHT_1c50", "readings": {"measured-temp": "20.0", "temperature": "20.0"}}
+{"raw": "T1C50436900FD", "device": "FHT_1c50", "readings": {"measured-temp": "20.0", "temperature": "20.0"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C50446900FF", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269CB0F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "20.3", "temperature": "20.3", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"measured-temp": "20.3", "temperature": "20.3", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C80C", "device": "FHT_5105", "readings": {}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "20.0", "temperature": "20.0", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"measured-temp": "20.0", "temperature": "20.0", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T2E65D10202", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269C8FE", "device": "FHT_1c50", "readings": {"measured-temp": "20.0", "temperature": "20.0"}}
+{"raw": "T1C50436900FE", "device": "FHT_1c50", "readings": {"measured-temp": "20.0", "temperature": "20.0"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269CA0F", "device": "FHT_2025", "readings": {"measured-temp": "20.2", "temperature": "20.2"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "20.2", "temperature": "20.2"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202544690010", "device": "FHT_2025", "readings": {"actuator": "0%", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C70B", "device": "FHT_5105", "readings": {"measured-temp": "19.9", "temperature": "19.9"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "19.9", "temperature": "19.9"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269C7FF", "device": "FHT_1c50", "readings": {"measured-temp": "19.9", "temperature": "19.9"}}
+{"raw": "T1C50436900FE", "device": "FHT_1c50", "readings": {"measured-temp": "19.9", "temperature": "19.9"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269C90F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "20.1", "temperature": "20.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"measured-temp": "20.1", "temperature": "20.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000D", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C70B", "device": "FHT_5105", "readings": {"measured-temp": "19.9", "temperature": "19.9"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "19.9", "temperature": "19.9"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269C7FE", "device": "FHT_1c50", "readings": {"measured-temp": "19.9", "temperature": "19.9"}}
+{"raw": "T1C50436900FE", "device": "FHT_1c50", "readings": {"measured-temp": "19.9", "temperature": "19.9"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269C90F", "device": "FHT_2025", "readings": {}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "20.1", "temperature": "20.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"measured-temp": "20.1", "temperature": "20.1", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C60D", "device": "FHT_5105", "readings": {"measured-temp": "19.8", "temperature": "19.8"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "19.8", "temperature": "19.8"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269C6FE", "device": "FHT_1c50", "readings": {"measured-temp": "19.8", "temperature": "19.8"}}
+{"raw": "T1C50436900FD", "device": "FHT_1c50", "readings": {"measured-temp": "19.8", "temperature": "19.8"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269C80F", "device": "FHT_2025", "readings": {}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "20.0", "temperature": "20.0", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"measured-temp": "20.0", "temperature": "20.0", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C60C", "device": "FHT_5105", "readings": {"measured-temp": "19.8", "temperature": "19.8"}}
+{"raw": "T51054369000B", "device": "FHT_5105", "readings": {"measured-temp": "19.8", "temperature": "19.8"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269C6FE", "device": "FHT_1c50", "readings": {"measured-temp": "19.8", "temperature": "19.8"}}
+{"raw": "T1C50436900FD", "device": "FHT_1c50", "readings": {"measured-temp": "19.8", "temperature": "19.8"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269C80F", "device": "FHT_2025", "readings": {"measured-temp": "20.0", "temperature": "20.0"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "20.0", "temperature": "20.0"}}
+{"raw": "T202544690010", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D18201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C50B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "19.7", "temperature": "19.7", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"measured-temp": "19.7", "temperature": "19.7", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FE", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269C5FD", "device": "FHT_1c50", "readings": {"measured-temp": "19.7", "temperature": "19.7"}}
+{"raw": "T1C50436900FD", "device": "FHT_1c50", "readings": {"measured-temp": "19.7", "temperature": "19.7"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269C70F", "device": "FHT_2025", "readings": {}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "19.9", "temperature": "19.9", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"measured-temp": "19.9", "temperature": "19.9", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C50B", "device": "FHT_5105", "readings": {}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C50B", "device": "FHT_5105", "readings": {"measured-temp": "19.7", "temperature": "19.7"}}
+{"raw": "T51054369000B", "device": "FHT_5105", "readings": {"measured-temp": "19.7", "temperature": "19.7"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269C5FD", "device": "FHT_1c50", "readings": {}}
+{"raw": "T1C50436900FD", "device": "FHT_1c50", "readings": {"measured-temp": "19.7", "temperature": "19.7", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"measured-temp": "19.7", "temperature": "19.7", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269C70F", "device": "FHT_2025", "readings": {"measured-temp": "19.9", "temperature": "19.9"}}
+{"raw": "T202543690010", "device": "FHT_2025", "readings": {"measured-temp": "19.9", "temperature": "19.9"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D10202", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C50B", "device": "FHT_5105", "readings": {"measured-temp": "19.7", "temperature": "19.7", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "19.7", "temperature": "19.7", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"measured-temp": "19.7", "temperature": "19.7", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269C5FD", "device": "FHT_1c50", "readings": {"measured-temp": "19.7", "temperature": "19.7"}}
+{"raw": "T1C50436900FD", "device": "FHT_1c50", "readings": {"measured-temp": "19.7", "temperature": "19.7"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269C610", "device": "FHT_2025", "readings": {}}
+{"raw": "T202543690010", "device": "FHT_2025", "readings": {"measured-temp": "19.8", "temperature": "19.8", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"measured-temp": "19.8", "temperature": "19.8", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FF", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269C4FE", "device": "FHT_1c50", "readings": {"measured-temp": "19.6", "temperature": "19.6", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50436900FD", "device": "FHT_1c50", "readings": {"measured-temp": "19.6", "temperature": "19.6", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"measured-temp": "19.6", "temperature": "19.6", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C40B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "19.6", "temperature": "19.6", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"measured-temp": "19.6", "temperature": "19.6", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "TB1987B8202", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000B", "device": "FHT_5105", "readings": {"actuator": "0%", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269C610", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "19.8", "temperature": "19.8", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202544690010", "device": "FHT_2025", "readings": {"measured-temp": "19.8", "temperature": "19.8", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C40B", "device": "FHT_5105", "readings": {"measured-temp": "19.6", "temperature": "19.6"}}
+{"raw": "T51054369000B", "device": "FHT_5105", "readings": {"measured-temp": "19.6", "temperature": "19.6"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%", "measured-temp": "19.6", "temperature": "19.6"}}
+{"raw": "T1C504269C4FD", "device": "FHT_1c50", "readings": {"actuator": "0%", "measured-temp": "19.6", "temperature": "19.6"}}
+{"raw": "T1C50436900FD", "device": "FHT_1c50", "readings": {"actuator": "0%", "measured-temp": "19.6", "temperature": "19.6"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T20254269C510", "device": "FHT_2025", "readings": {}}
+{"raw": "T202543690010", "device": "FHT_2025", "readings": {"measured-temp": "19.7", "temperature": "19.7", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"measured-temp": "19.7", "temperature": "19.7", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202544690010", "device": "FHT_2025", "readings": {"actuator": "0%", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D102FF", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C30B", "device": "FHT_5105", "readings": {"measured-temp": "19.5", "temperature": "19.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "19.5", "temperature": "19.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"measured-temp": "19.5", "temperature": "19.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10200", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%", "measured-temp": "19.5", "temperature": "19.5"}}
+{"raw": "T1C504269C3FD", "device": "FHT_1c50", "readings": {"actuator": "0%", "measured-temp": "19.5", "temperature": "19.5"}}
+{"raw": "T1C50436900FD", "device": "FHT_1c50", "readings": {"actuator": "0%", "measured-temp": "19.5", "temperature": "19.5"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T20254269C50F", "device": "FHT_2025", "readings": {}}
+{"raw": "T202543690010", "device": "FHT_2025", "readings": {"measured-temp": "19.7", "temperature": "19.7"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"actuator": "0%", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T51054269C30B", "device": "FHT_5105", "readings": {"measured-temp": "19.5", "temperature": "19.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "19.5", "temperature": "19.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"measured-temp": "19.5", "temperature": "19.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D18201", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T1C504269C3FE", "device": "FHT_1c50", "readings": {}}
+{"raw": "T1C50436900FD", "device": "FHT_1c50", "readings": {"measured-temp": "19.5", "temperature": "19.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"measured-temp": "19.5", "temperature": "19.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10202", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D18202", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269C40E", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T202543690010", "device": "FHT_2025", "readings": {"measured-temp": "19.6", "temperature": "19.6", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T20254469000F", "device": "FHT_2025", "readings": {"measured-temp": "19.6", "temperature": "19.6", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10202", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D18203", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000D", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C20C", "device": "FHT_5105", "readings": {"measured-temp": "19.4", "temperature": "19.4"}}
+{"raw": "T51054369000B", "device": "FHT_5105", "readings": {"measured-temp": "19.4", "temperature": "19.4"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B0200", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T1C504269C3FE", "device": "FHT_1c50", "readings": {}}
+{"raw": "T1C50436900FE", "device": "FHT_1c50", "readings": {"measured-temp": "19.5", "temperature": "19.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C50446900FE", "device": "FHT_1c50", "readings": {"measured-temp": "19.5", "temperature": "19.5", "battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000D", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T51054269C20C", "device": "FHT_5105", "readings": {}}
+{"raw": "T51054269C2DC", "device": "FHT_5105", "readings": {"measured-temp": "19.4", "temperature": "19.4"}}
+{"raw": "T51054369000C", "device": "FHT_5105", "readings": {"measured-temp": "19.4", "temperature": "19.4"}}
+{"raw": "T51054469000C", "device": "FHT_5105", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T1C5000A600FD", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T2E65D10202", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D18203", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "TB1987B8201", "device": "CUL_FHTTK_b1987b", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000C", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A60010", "device": "FHT_2025", "readings": {"actuator": "0%"}}
+{"raw": "T20254269C40E", "device": "FHT_2025", "readings": {"measured-temp": "19.6", "temperature": "19.6"}}
+{"raw": "T20254369000F", "device": "FHT_2025", "readings": {"measured-temp": "19.6", "temperature": "19.6"}}
+{"raw": "T202544690010", "device": "FHT_2025", "readings": {"battery": "ok", "batteryState": "ok", "lowtemp": "ok", "window": "closed", "windowsensor": "ok", "warnings": "none"}}
+{"raw": "T2E65D10202", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T2E65D18202", "device": "CUL_FHTTK_2e65d1", "readings": {"Window": "Closed", "Reliability": "ok", "batteryState": "ok"}}
+{"raw": "T510500A6000B", "device": "FHT_5105", "readings": {"actuator": "0%"}}
+{"raw": "T1C5000A600FE", "device": "FHT_1c50", "readings": {"actuator": "0%"}}
+{"raw": "T202500A6000F", "device": "FHT_2025", "readings": {"actuator": "0%"}}
