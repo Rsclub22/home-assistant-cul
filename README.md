@@ -132,7 +132,7 @@ Commands are only sent to FHT80b heard recently (default 2 hours, configurable).
 ## Known issues
 
 - **Stuck commands in the CUL (culfw 1.43).** While an FHT80b is set to `CEnt nA`, a stray entry such as `1C50:00A6,10FB` showed up at the front of the CUL's FHT buffer, and the thermostat never picked up the commands behind it. Pressing **Restart** on the CUL (`B00`) clears the buffer. Until this is handled automatically, restart the CUL before pairing.
-- Only FHT80b and FHT80TF are supported so far.
+- Only FHT80b and FHT80TF are supported so far. Want another culfw device (FS20, EM, HMS …)? See [Adding a device type](CONTRIBUTING.md#adding-a-device-type); telegrams from real hardware help most.
 
 ## Troubleshooting
 
